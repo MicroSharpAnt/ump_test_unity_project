@@ -1,7 +1,7 @@
 {
     "name": "com.upm.test",
     "displayName": "MineTestPlugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2021.3",
     "description": "none",
     "keywords": [

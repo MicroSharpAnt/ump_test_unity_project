@@ -8,4 +8,10 @@ public class UpmTest : Editor
     {
         Debug.Log("测试输出");
     }
+
+    [MenuItem("Tools/更新测试", false, 0)]
+    public static void Test2()
+    {
+        Debug.Log("测试输出_更新package");
+    }
 }
