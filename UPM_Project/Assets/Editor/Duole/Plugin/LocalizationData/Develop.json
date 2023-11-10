@@ -1,0 +1,87 @@
+{
+  "des": {
+    "ddd": "ddd",
+    "dfadafda": "daf",
+    "test": "dc"
+  },
+  "en": {
+    "ddd": "dd",
+    "dfadafda": "daf",
+    "test": "test"
+  },
+  "fr": {
+    "ddd": "f",
+    "dfadafda": "dfaf",
+    "test": "test"
+  },
+  "de": {
+    "ddd": "f",
+    "dfadafda": "",
+    "test": "prüfen"
+  },
+  "pt": {
+    "ddd": "d",
+    "dfadafda": "",
+    "test": "teste"
+  },
+  "es": {
+    "ddd": "d",
+    "dfadafda": "daf",
+    "test": "prueba"
+  },
+  "ja": {
+    "ddd": "f",
+    "dfadafda": "",
+    "test": "テスト"
+  },
+  "ko": {
+    "ddd": "d",
+    "dfadafda": "dfadf",
+    "test": "시험"
+  },
+  "ru": {
+    "ddd": "dv",
+    "dfadafda": "",
+    "test": "тест"
+  },
+  "hi": {
+    "ddd": "df",
+    "dfadafda": "",
+    "test": "परीक्षा"
+  },
+  "it": {
+    "ddd": "df",
+    "dfadafda": "",
+    "test": "test"
+  },
+  "zh_tw": {
+    "ddd": "cq",
+    "dfadafda": "",
+    "test": "測試"
+  },
+  "uk": {
+    "ddd": "df",
+    "dfadafda": "",
+    "test": "тест"
+  },
+  "tr": {
+    "ddd": "efq",
+    "dfadafda": "",
+    "test": "Ölçek"
+  },
+  "pl": {
+    "ddd": "fda",
+    "dfadafda": "",
+    "test": "test"
+  },
+  "cs": {
+    "ddd": "dfa",
+    "dfadafda": "",
+    "test": "test"
+  },
+  "hu": {
+    "ddd": "fadfdd",
+    "dfadafda": "",
+    "test": "teszt"
+  }
+}

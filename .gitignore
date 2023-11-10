@@ -1,0 +1,7 @@
+UPM_Project/Library
+UPM_Project/Logs
+UPM_Project/Temp
+UPM_Project/obj
+UPM_Project/UserSettings
+*.csproj
+*.sln
