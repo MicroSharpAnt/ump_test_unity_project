@@ -231,6 +231,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.upm.test2": {
+      "version": "file:com.upm.test2",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
